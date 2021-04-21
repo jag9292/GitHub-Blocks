@@ -1,0 +1,48 @@
+.BackGround {
+    background-color: beige;
+    overflow: auto;
+}
+.header {
+    height: 50px;
+    width: 1000px;
+    margin: 20px;
+    text-align: center;
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.topBox {
+    height: 200px;
+    width: 1000px;
+    background-color:cornflowerblue;
+    margin: 0px 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cat img {
+    height: 200px;
+}
+.middleBox {
+    height: 200px;
+    width: 1000px;
+    background-color: cadetblue;
+    margin: 20px;
+    display: flex;
+    justify-content:space-evenly;
+}
+.bottomBox {
+    height: 200px;
+    width: 1000px;
+    background-color: chartreuse;
+    margin: 20px;
+    display: flex;
+    justify-content:space-evenly;
+}
+.footer {
+    height: 20px;
+    width: 1000px;
+    text-align: center;
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
